@@ -463,7 +463,9 @@ padding-right: 80px;
 {
     margin-right: 50px;
 }
-
+.progress-bar span{
+    margin-right: 90px;
+}
 .container-right .fa
 {
   position: relative; 
@@ -574,4 +576,58 @@ background: #e4faff;
 {
     color: #ffad47;
     background: #ffe4c2;
+}
+
+
+
+.w3-light-yellow{
+    background: #FFB200;
+    padding: 3px 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+.w3-yellow{
+    background:  #FFF5CC;
+    padding:3px 15px ;
+    border: none;
+    border-radius: 10px;
+}
+
+.w3-light-green{
+    background:  #13C525;
+    padding: 3px 30px;
+    border: none;
+    border-radius: 10px;
+}
+
+.w3-green{
+    background:  #D1FFDB;
+    padding:3px 5px ;
+    border: none;
+    border-radius: 10px;
+}
+
+.w3-light-red{
+    background:  #FF4A4A;
+    padding: 3px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.w3-red{
+    background:  #FFD7D7;
+    padding:3px 30px ;
+    border: none;
+    border-radius: 10px;
+}
+
+.green
+{
+    margin-right: 70px !important;
+}
+
+.red
+{
+    margin-right: 100px !important;
 }
